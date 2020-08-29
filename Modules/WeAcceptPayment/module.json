@@ -1,0 +1,13 @@
+{
+    "name": "WeAcceptPayment",
+    "alias": "weacceptpayment",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\WeAcceptPayment\\Providers\\WeAcceptPaymentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

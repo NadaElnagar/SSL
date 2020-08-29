@@ -1,0 +1,18 @@
+{
+    "Products": true,
+    "Users": true,
+    "Cart": true,
+    "SSL": true,
+    "Order": true,
+    "Admin": true,
+    "RollPermission": true,
+    "FAQ": true,
+    "Setting": true,
+    "Tiket": true,
+    "Ticket": true,
+    "Category": true,
+    "HomePage": true,
+    "WeAcceptPayment": true,
+    "Notification": true,
+    "Reports": true
+}

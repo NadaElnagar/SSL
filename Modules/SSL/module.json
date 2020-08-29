@@ -1,0 +1,13 @@
+{
+    "name": "SSL",
+    "alias": "ssl",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SSL\\Providers\\SSLServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,23 @@
+<?php
+return [
+    'Unauthorized'       => 'User in Unauthorized.',
+    "password doesn't match" => "password doesn't match.",
+    "old and New Password Required Fields"=>"old and New Password Required Fields.",
+    "logout_success"=>"Logout Success",
+    "Product Added To Cart"=>"Product Added To Cart",
+    "Product Removed!."=>"Product Removed!.",
+    "Error, Please Try again Letter"=>"Error, Please Try again Letter",
+    "No Content"=>"No Content",
+    "Number of Fails "=>"Number of Fails ",
+    "redirect to Order details page to Complete some Process"=>"Redirect to Order details to Complete some Process",
+    "Check Your Cart"=>"Check Your Cart",
+    "Admin Added Successfully"=>"Admin Added Successfully",
+    "Please Check Your Mail."=>"Please Check Your Mail.",
+    "We can't find a user with that e-mail address."=>"We can't find a user with that e-mail address.",
+    "This password reset token is invalid."=>"This password reset token is invalid.",
+    "We can't find a user with that e-mail address."=>"We can't find a user with that e-mail address.",
+    "user Cart Empty"=>"User Cart Empty",
+    "old password is wrong"=>"Old Password is wrong.",
+    "Product Added To Cart"=>"Product Added To Cart",
+    "Image Not Valid"=>"Image Not Valid",
+];

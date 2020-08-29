@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/weacceptpayment",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\WeAcceptPayment\\Providers\\WeAcceptPaymentServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\WeAcceptPayment\\": ""
+        }
+    }
+}
