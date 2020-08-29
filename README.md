@@ -1,2 +1,2 @@
 # SSL
-User can pay certificate 
+User can buy certificate 
